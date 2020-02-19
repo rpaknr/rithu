@@ -1,0 +1,2 @@
+# rithu
+my stoks
